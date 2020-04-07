@@ -1,4 +1,4 @@
-package Herança1;
+package Escola_herança;
 
 public class Professor extends Pessoa {
 

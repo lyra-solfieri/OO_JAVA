@@ -1,4 +1,4 @@
-package Herança1;
+package Escola_herança;
 import java.util.Scanner;
 import java.util.ArrayList;
 

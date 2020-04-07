@@ -1,4 +1,4 @@
-package Herança2;
+package Conta_herança;
 
 public class Cliente {
 	

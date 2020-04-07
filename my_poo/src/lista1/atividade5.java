@@ -2,7 +2,7 @@ package lista1;
 
 import java.util.Scanner;
 
-public class atividadade5 {
+public class atividade5 {
 
 	public static void main(String[] args) {
 		

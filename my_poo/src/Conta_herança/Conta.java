@@ -1,4 +1,4 @@
-package Herança2;
+package Conta_herança;
 
 public class Conta {
 	
@@ -8,7 +8,7 @@ public class Conta {
 	private String banco;
 	
 	
-	//Construtor 
+	
 	
 	public Conta(long n,double t,double s,String b) {
 		this.num_conta = n;

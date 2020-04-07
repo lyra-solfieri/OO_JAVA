@@ -196,7 +196,7 @@ public class Menu {
 			True = false;
 			break;
 		default:
-			System.out.println("Saiu!");
+			System.out.println("Hasta la vista, baby !!!");
 			break;
 			
 			

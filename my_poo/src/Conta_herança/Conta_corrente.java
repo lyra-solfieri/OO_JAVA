@@ -1,4 +1,4 @@
-package Herança2;
+package Conta_herança;
 
 public class Conta_corrente extends Conta {
 
@@ -17,8 +17,11 @@ public class Conta_corrente extends Conta {
 			this.setSaldo(this.getSaldo()-valor);
 			return true;
 		}
-		return false;
-		
+		return false;}
 	
-}
+	public boolean depositar(double valor) {
+		this.setSaldo(this.getSaldo()+valor);
+		return false;}
+		
+			
 }
